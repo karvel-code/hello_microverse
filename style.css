@@ -3,40 +3,14 @@
                 ****** RESET ******
     ==============================================
 */
+
 body {
-  margin: 0;
+  background-color: black;
 }
-
-:root {
-  --color-red: #f42;
-  --bg-color-red: #f42;
-}
-
-*,
-*::before,
-*::after {
-  margin: 0;
-  padding: 0;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-ul {
-  list-style: none;
-}
-
-a {
-  text-decoration: none;
+h1 {
   color: white;
 }
-
-a:hover {
-  color: #333;
+.head {
+  color: white;
+  text-align: center;
 }
-
-/*
-    ==============================================
-                ****** GLOBAL ******
-    ==============================================
-*/
